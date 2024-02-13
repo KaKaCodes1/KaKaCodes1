@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KaKaCodes1
 - 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning ...Java, Javascript and Php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... website creation😉
+- 📫 How to reach me ...Currently a little M.I.A but will be back soon👀
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Love music
 
