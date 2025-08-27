@@ -7,11 +7,11 @@
 <!--img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"-->
 
 
-- 🌱 I’m currently learning **Flutter, Figma**
+- 🌱 I’m currently learning **Backend Development** at ALX
 
 - 👯 I’m looking to collaborate on **web and mobile development projects**
 
-- 💬 Ask me about **HTML, CSS, Dart, Flutter**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **hamisig123@gmail.com**
 
